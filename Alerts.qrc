@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sounds/airhorn.wav</file>
+    </qresource>
+</RCC>

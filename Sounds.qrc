@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>editreservation.cpp</file>
+        <file>editreservation.h</file>
+        <file>errwindow.cpp</file>
+        <file>globals.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>newreservation.cpp</file>
+        <file>newreservation.h</file>
+        <file>noteswindow.cpp</file>
+        <file>noteswindow.h</file>
+        <file>pickupwindow.cpp</file>
+        <file>pickupwindow.h</file>
+        <file>reservationviewer.cpp</file>
+        <file>reservationviewer.h</file>
+        <file>scheduler.cpp</file>
+        <file>scheduler.h</file>
+        <file>socketclient.cpp</file>
+        <file>socketclient.h</file>
+        <file>structures.cpp</file>
+        <file>structures.h</file>
+    </qresource>
+</RCC>
